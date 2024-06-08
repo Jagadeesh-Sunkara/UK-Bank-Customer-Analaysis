@@ -52,23 +52,27 @@ The Tableau workbook includes interactive dashboards that allow users to explore
 - **Age Group**: Most customers are between 30 to 40 years old.
 - **Gender**: 54% of customers are male.
 - **Balance**: Most customers have balances between 0k to 50k.
+  
   ![Customer Insights](Dashboard.png)
 
 ### Demographic-Based Insights:
 #### Scotland
 - **Age**: Majority are between 45 to 55 years old.
 - **Gender**: 72% are male.
+  
  ![Scotland Demographics](Scotland.png)
 
 
 #### England
 - **Age**: Majority are between 30 to 40 years old.
 - **Gender**: Nearly equal male and female distribution.
-   ![Scotland Demographics](Scotland.png)
+  
+   ![England Demographics](England.png)
 
 #### Northern Ireland
 - **Age**: Majority are between 25 to 30 years old.
 - **Gender**: 74% are female.
+  
   ![Northern Ireland Demographics](Ireland.png)
 
 #### Wales
